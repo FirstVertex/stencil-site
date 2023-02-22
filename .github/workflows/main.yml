@@ -15,4 +15,4 @@ concurrency:
 jobs:
   format:
     name: Format
-    uses: ./.github/workflows/lint-and-format.yml
+    uses: ./.github/workflows/format.yml
